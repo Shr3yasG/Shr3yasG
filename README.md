@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shr3yasG
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning Java,kotlin,Android Studio,Dart,FLutter and etc.
-- 💞️ I’m looking to collaborate on Android Development
+- 👀 I’m interested in web Development
+- 🌱 I'm currently working and making projects in React js
+- 💞️ I’m looking to collaborate on React web Development
 - 📫 How to reach me email - shreyaa1110@gmail.com
 
 <!---
